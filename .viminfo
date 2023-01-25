@@ -14,6 +14,8 @@
 ~Msle0~/\<i\>
 
 # Command Line History (newest to oldest):
+:qa!
+|2,0,1674631757,,"qa!"
 :wq!
 |2,0,1674246814,,"wq!"
 :q!
@@ -32,8 +34,6 @@
 |2,0,1670352135,,"wq!git add ."
 :wq! git add .
 |2,0,1670351707,,"wq! git add ."
-:qa!
-|2,0,1670165900,,"qa!"
 :qa
 |2,0,1670151379,,"qa"
 
@@ -57,34 +57,44 @@
 |3,1,36,0,1,0,1674246379,"\""
 
 # File marks:
-'0  35  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
-|4,48,35,0,1674246814,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
-'1  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
-|4,49,1,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
-'2  17  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
-|4,50,17,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
-'3  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
-|4,51,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
-'4  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
-|4,52,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
-'5  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,53,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
-'6  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,54,1,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
-'7  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,55,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
-'8  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,56,1,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
-'9  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,57,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+'0  1  0  ~/token
+|4,48,1,0,1674631757,"~/token"
+'1  35  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,49,35,0,1674246814,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+'2  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,50,1,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+'3  17  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,51,17,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+'4  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,52,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+'5  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,53,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+'6  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,54,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+'7  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,55,1,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+'8  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,56,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+'9  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,57,1,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 
 # Jumplist (newest first):
+-'  1  0  ~/token
+|4,39,1,0,1674631757,"~/token"
+-'  35  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,39,35,0,1674246814,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
 -'  35  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
 |4,39,35,0,1674246814,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
 |4,39,1,0,1674246363,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,39,1,0,1674246363,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
 -'  17  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
 |4,39,17,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+-'  17  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,39,17,0,1674245771,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+|4,39,1,0,1674245482,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
 |4,39,1,0,1674245482,"~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c"
 -'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
@@ -95,6 +105,22 @@
 |4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
 -'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
 |4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  24  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,24,0,1674245293,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,1,0,1674245144,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,1,0,1674245144,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,1,0,1674245144,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+|4,39,1,0,1674245144,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
 |4,39,1,0,1674245144,"~/alx-low_level_programming/0x0F-function_pointers/3-calc.h"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
@@ -119,6 +145,38 @@
 |4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
 -'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
 |4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  28  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,28,0,1674244998,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+|4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
 |4,39,1,0,1674244747,"~/alx-low_level_programming/0x0F-function_pointers/3-main.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
@@ -167,6 +225,38 @@
 |4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 -'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
 |4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
+-'  27  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+|4,39,27,0,1674244543,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
 |4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
@@ -189,98 +279,12 @@
 |4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
 |4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674244234,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674243845,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  32  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,32,0,1674242442,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
--'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-|4,39,1,0,1674241964,"~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/token
+	*	1674631752	0
+	"	1	0
 
 > ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
 	*	1674246806	0
@@ -2770,56 +2774,6 @@
 	+	19	0
 	+	20	0
 	+	21	1
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	31	0
-
-> ~/alx-low_level_programming/0x05-pointers_arrays_strings/9-strcpy.c
-	*	1671564126	0
-	"	30	0
-	^	30	1
-	.	31	0
-	+	1	394
-	+	1	17
-	+	1	20
-	+	1	82
-	+	1	139
-	+	1	180
-	+	1	214
-	+	1	267
-	+	1	312
-	+	1	313
-	+	1	327
-	+	1	345
-	+	1	346
-	+	1	371
-	+	1	379
-	+	1	380
-	+	1	394
-	+	30	1
-	+	2	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	7	1
-	+	8	1
-	+	11	1
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
 	+	22	0
 	+	23	0
 	+	24	0
